@@ -7,7 +7,11 @@
 
 MASTER!
 <<<<<<< HEAD
+<<<<<<< HEAD
 Algo más...s
+=======
+Algo más...
+>>>>>>> ca803e6
 =======
 Algo más...
 >>>>>>> ca803e6
