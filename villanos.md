@@ -7,5 +7,5 @@
 5. PJ_FOUR
 6. PJ_FIVE
 
-CONFLICTO 2
+CONFLICTO 2 desde Master
 Algo más...
