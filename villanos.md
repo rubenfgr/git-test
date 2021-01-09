@@ -1,17 +1,10 @@
 # Villanos
 
 1. PJ_ONE
+2. PJ_TWO
 3. PJ_TREE
 4. PJ_FOUR
 5. PJ_FIVE
 
 MASTER!
-<<<<<<< HEAD
-<<<<<<< HEAD
-Algo más...s
-=======
 Algo más...
->>>>>>> ca803e6
-=======
-Algo más...
->>>>>>> ca803e6
