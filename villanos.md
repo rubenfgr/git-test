@@ -7,5 +7,5 @@
 5. PJ_FOUR
 6. PJ_FIVE
 
-CONFLICTO 2
+esto seria un conflicto...
 Algo más...
