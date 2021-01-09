@@ -2,9 +2,9 @@
 
 1. PJ_ONE
 2. PJ_TWO
-3. HELLO
+3. CONFLICTO 1
 4. PJ_FOUR
 5. PJ_FIVE
 
-MASTER!
+CONFLICTO 2
 Algo más...
